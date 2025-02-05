@@ -1,24 +1,6 @@
 <h1 align="center">
-  <span id="typed-name"></span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=550&lines=Ol%C3%A1%2C+me+chamo+Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB">
 </h1>
-
-<script>
-  const nameText = "Olá, me chamo Victor Crepaldi Gomes 👋🏻";
-  let index = 0;
-  const nameElement = document.getElementById("typed-name");
-
-  function typeEffect() {
-    if (index < nameText.length) {
-      nameElement.innerHTML += nameText.charAt(index);
-      index++;
-      setTimeout(typeEffect, 100);
-    }
-  }
-
-  window.onload = () => {
-    setTimeout(typeEffect, 500);
-  };
-</script>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=500&lines=Full+Stack+Developer;Python+%7C+MongoDB+%7C+AWS;React+%7C+Node.js+%7C+Cybersecurity;Building+Scalable+and+Secure+Solutions!">
@@ -80,3 +62,5 @@
 </p>
 
 ---
+
+<h3 align="center">🔥 "Code, Learn, Innovate" 🔥</h3>
