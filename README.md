@@ -1,18 +1,18 @@
 <h1 align="center"> Olá, me chamo Victor Crepaldi Gomes 👋🏻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=450&lines=Backend+Developer;Python+%7C+MongoDB+%7C+AWS;Cybersecurity+%7C+Software+Engineering;Always+Learning+New+Technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=500&lines=Full+Stack+Developer;Python+%7C+MongoDB+%7C+AWS;React+%7C+Node.js+%7C+Cybersecurity;Building+Scalable+and+Secure+Solutions!">
 </p>
 
 ---
 
 <h2 align="center">💻 Sobre Mim</h2>
 
-🔹 Desenvolvedor Backend apaixonado por criar **soluções eficientes e escaláveis**  
-🔹 Especialista em **Python, bancos de dados (MongoDB, Firebird)** e **infraestrutura AWS**  
-🔹 Experiência com **cibersegurança**, **engenharia de software** e desenvolvimento web moderno  
-🔹 Habilidades em **React e Node.js** para integração full-stack  
-🔹 Sempre aprendendo e explorando novas tecnologias para aprimorar meus projetos  
+🔹 **Desenvolvedor Full Stack** focado em backend robusto e escalável  
+🔹 Especialista em **Python, MongoDB, Firebird** e **infraestrutura AWS**  
+🔹 Experiência em **React e Node.js** para desenvolvimento moderno e dinâmico  
+🔹 Forte conhecimento em **cibersegurança** e **engenharia de software**  
+🔹 Sempre aprendendo novas tecnologias e melhorando minhas soluções  
 
 ---
 
@@ -37,6 +37,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=blueberry&hide=issues&count_private=true" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=blueberry" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=450&lines=Top+Languages+%26+Contributions;Consistência+é+a+chave!">
 </p>
 
 ---
