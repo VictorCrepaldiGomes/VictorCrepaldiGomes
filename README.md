@@ -61,6 +61,4 @@
   </a>
 </p>
 
----
 
-<h3 align="center">🔥 "Code, Learn, Innovate" 🔥</h3>
