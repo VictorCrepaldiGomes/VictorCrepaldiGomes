@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Victor Crepaldi Gomes </h1>
+<h1 align="center"> Olá, me chamo Victor Crepaldi Gomes 👋🏻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=450&lines=Backend+Developer;Python+%7C+MongoDB+%7C+AWS;Cybersecurity+%7C+Software+Engineering;Always+Learning+New+Technologies!">
