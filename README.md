@@ -1,4 +1,6 @@
-<h1 align="center"> Olá, me chamo Victor Crepaldi Gomes 👋🏻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=550&lines=Ol%C3%A1%2C+me+chamo+Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=500&lines=Full+Stack+Developer;Python+%7C+MongoDB+%7C+AWS;React+%7C+Node.js+%7C+Cybersecurity;Building+Scalable+and+Secure+Solutions!">
@@ -61,4 +63,4 @@
 
 ---
 
-<h3 align="center">🔥 "Code, Learn, Innovate" 🔥</h3>
+
