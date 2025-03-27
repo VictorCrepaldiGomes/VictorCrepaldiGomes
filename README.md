@@ -3,18 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack apaixonado por tecnologia e inovação.</strong>
-</p>
-
----
-
-<h2 align="center">💡 Sobre Mim</h2>
-
-<p align="center">
-🔹 Especialista em <strong>Python, MongoDB, Firebird</strong> e <strong>AWS</strong>  <br>
-🔹 Desenvolvimento moderno com <strong>React e Node.js</strong>  <br>
-🔹 Criando soluções escaláveis e eficientes  <br>
-🔹 Sempre aprendendo e evoluindo  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=500&lines=Full+Stack+Developer;Python+%7C+MongoDB+%7C+AWS;React+%7C+Node.js+%7C+Firebird">
 </p>
 
 ---
