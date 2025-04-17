@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&vCenter=true&width=600&height=50&lines=Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB;Backend+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Apaixonado+por+c%C3%B3digo+limpo+e+perform%C3%A1tico;Criando+APIs+eficientes+e+escal%C3%A1veis;Vamos+construir+algo+incr%C3%ADvel%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB;Backend+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Apaixonado+por+c%C3%B3digo+limpo+e+perform%C3%A1tico;Criando+APIs+eficientes+e+escal%C3%A1veis;Vamos+construir+algo+incr%C3%ADvel%3F" alt="Typing SVG" />
 </div>
+
 
 <h2 align="center">Tecnologias</h2>
 
