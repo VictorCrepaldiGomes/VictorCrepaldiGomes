@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tecnologias que utilizo</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">📈 Estatísticas</h2>
+<h2 align="center">Estatísticas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160px"/>
@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">💡 Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 <p align="center">
 Foco em BackEnd, utilizando tecnologias como JavaScript, NodeJS, TypeScript entre outras.
@@ -42,7 +42,7 @@ Acredito em código limpo, arquitetura bem definida e soluções que resolvem de
 
 ---
 
-<h2 align="center">📬Fale comigo 👇🏻</h2>
+<h2 align="center">Fale comigo 👇🏻</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-gomes-b067a3266/" target="_blank">
