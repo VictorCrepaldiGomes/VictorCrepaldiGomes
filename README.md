@@ -19,8 +19,8 @@
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=github-dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=github-dark" height="200px"/>
 </p>
 
 
