@@ -1,16 +1,12 @@
-<h1 align="center">Victor Crepaldi Gomes</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=500&lines=Backend+Developer+%7C+JavaScript+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 </div>
 
----<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=600&lines=Eu+sou+Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB;Backend+Developer+focado+em+JavaScript+e+APIs+eficientes">
+---
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=600&lines=Eu+sou+Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB;Backend+Developer+focado+em+JavaScript+e+APIs+eficientes">
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=500&lines=Node.js+%7C+Express+%7C+TypeScript+%7C+JavaScript;REST+APIs+%7C+Autentica%C3%A7%C3%A3o+JWT+%7C+Clean+Architecture">
-</p>
 
 ---
 
