@@ -19,9 +19,10 @@
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=default&hide=issues&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=default" height="160px"/>
 </p>
+
 
 
 <h2 align="center">Fale comigo 👇🏻</h2>
