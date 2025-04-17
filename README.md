@@ -34,15 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=tokyonight" height="160px"/>
 </p>
 
----
-
-<h2 align="center">Sobre mim</h2>
-
-<p align="center">
-Foco em BackEnd, utilizando tecnologias como JavaScript, NodeJS, TypeScript entre outras.
-</p>
-
----
 
 <h2 align="center">Fale comigo 👇🏻</h2>
 
