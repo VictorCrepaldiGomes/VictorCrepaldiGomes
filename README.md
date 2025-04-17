@@ -33,7 +33,7 @@
 <h2 align="center">💡 Sobre mim</h2>
 
 <p align="center">
-Sou um dev backend especializado em **JavaScript**, **TypeScript** e **Node.js**, com foco em construir APIs performáticas, seguras e fáceis de manter.
+Foco em BackEnd, utilizando tecnologias como JavaScript, NodeJS, TypeScript entre outras.
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Acredito em código limpo, arquitetura bem definida e soluções que resolvem de
 
 ---
 
-<h2 align="center">📬 Vamos conversar</h2>
+<h2 align="center">📬Fale comigo 👇🏻</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-gomes-b067a3266/" target="_blank">
