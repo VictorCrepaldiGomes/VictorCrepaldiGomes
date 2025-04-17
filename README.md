@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">Tecnologias que utilizo</h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -42,10 +42,6 @@
 Foco em BackEnd, utilizando tecnologias como JavaScript, NodeJS, TypeScript entre outras.
 </p>
 
-<p align="center">
-Acredito em código limpo, arquitetura bem definida e soluções que resolvem de verdade.
-</p>
-
 ---
 
 <h2 align="center">Fale comigo 👇🏻</h2>
@@ -62,14 +58,4 @@ Acredito em código limpo, arquitetura bem definida e soluções que resolvem de
   </a>
 </p>
 
-### ⚙️ Tech Stack
 
-```js
-const stack = {
-  languages: ['JavaScript', 'TypeScript'],
-  backend: ['Node.js', 'Express', 'REST APIs'],
-  database: ['MongoDB', 'PostgreSQL'],
-  architecture: ['Clean Architecture', 'MVC'],
-  security: ['JWT', 'OAuth2'],
-  tools: ['Git', 'Docker', 'CI/CD'],
-};
