@@ -26,9 +26,9 @@
 
 📊 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=blue&count_private=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=blue&date_format=j%20M%5B%20Y%5D" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrepaldiGomes&layout=compact&theme=blue&hide_title=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=blueberry&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=blueberry&date_format=j%20M%5B%20Y%5D" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrepaldiGomes&layout=compact&theme=blueberry&hide_title=true" height="170" />
 
 </div>
 
