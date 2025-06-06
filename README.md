@@ -1,47 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Victor+Crepaldi+Gomes+%F0%9F%91%8B%F0%9F%8F%BB;Backend+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Apaixonado+por+c%C3%B3digo+limpo+e+perform%C3%A1tico;Criando+APIs+eficientes+e+escal%C3%A1veis;Vamos+construir+algo+incr%C3%ADvel%3F" alt="Typing SVG" />
+
+### Victor Crepaldi Gomes
+
+🚀 *Desenvolvedor Web Full-Stack*  
+💻 *JavaScript • TypeScript • Node.js • React • Next.js*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gomes-b067a3266/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victorcrepaldigomes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/VictorCrepaldiGomes)
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat-square&color=lightgrey" alt="Profile views" />
+
+🛠️ **Stack Principal**
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,git,github" /><br>
+
 </div>
 
 ---
 
-<h2 align="center">🚀 Tecnologias</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</p>
+📈 **GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=transparent&rank_icon=github&hide_title=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=transparent&date_format=j%20M%5B%20Y%5D" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrepaldiGomes&layout=compact&theme=transparent&hide_title=true" height="160" />
+
+</div>
 
 ---
 
-<h2 align="center">📊 Estatísticas</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCrepaldiGomes&theme=github-dark" height="200px"/>
-</p>
+📍 **Visitantes do perfil**
 
----
+<img src="https://profile-counter.glitch.me/VictorCrepaldiGomes/count.svg" />
 
-<h2 align="center">📫 Fale comigo</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-gomes-b067a3266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5">
-  </a>
-  <a href="mailto:victorcrepaldigomes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836">
-  </a>
-  <a href="https://github.com/VictorCrepaldiGomes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+</div>
