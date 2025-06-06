@@ -15,21 +15,8 @@
 
 <div align="center">
 
-🛠️ **Stack Principal**
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,git,github" /><br>
-
-</div>
-
----
-
-<div align="center">
-
-📈 **GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=transparent&rank_icon=github&hide_title=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=transparent&date_format=j%20M%5B%20Y%5D" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrepaldiGomes&layout=compact&theme=transparent&hide_title=true" height="160" />
+🛠️ **Stack Principal**  
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,git,github" />
 
 </div>
 
@@ -37,8 +24,19 @@
 
 <div align="center">
 
-📍 **Visitantes do perfil**
+📈 **Estatísticas GitHub**
 
+<img src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=github_dark&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=github-dark&date_format=j%20M%5B%20Y%5D" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrepaldiGomes&layout=compact&theme=github_dark&hide_title=true" height="170" />
+
+</div>
+
+---
+
+<div align="center">
+
+📍 **Visitantes do perfil**  
 <img src="https://profile-counter.glitch.me/VictorCrepaldiGomes/count.svg" />
 
 </div>
