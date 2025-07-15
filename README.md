@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,styledcomponents,figma,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,styledcomponents,figma,git,github&theme=dark" />
 </p>
 
 ---
@@ -39,8 +39,8 @@
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=graywhite&count_private=true&icon_color=000000&title_color=000000&text_color=000000" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=graywhite&hide_border=false&stroke=000000&ring=000000&currStreakLabel=000000&fire=000000&currStreakNum=000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=dark&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=dark&hide_border=false&background=000000&currStreakLabel=ffffff&fire=ffffff&currStreakNum=ffffff&ring=ffffff" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/VictorCrepaldiGomes/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&color=ffffff&style=flat&label=Profile+Views" />
   <br/>
   <i>Thanks for stopping by — keep building.</i>
 </p>
