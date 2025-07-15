@@ -1,24 +1,24 @@
-<h1>Victor Crepaldi Gomes</h1>
+<h1 align="left">Victor Crepaldi Gomes</h1>
 
 <p align="left" style="text-align: justify;">
-  <strong>Front-end Developer • UI-Centric Engineer</strong><br/>
-  Building sleek, performant interfaces using React, Next.js & TypeScript.
+Front-end developer focused on clean code, high-performance interfaces, and design systems that scale. I build digital products with an emphasis on modern technologies like React, Next.js, Tailwind CSS and TypeScript — always aiming for usability, elegance, and clarity.
 </p>
 
 <p align="left" style="text-align: justify;">
-  Crafting thoughtful user experiences with modern technologies, clean code, and product intuition.  
-  Currently focused on performance-driven UIs and exploring AI integration in frontend tools.
+Currently exploring the intersection between Front-end development and AI, working on tools and interfaces that save time, deliver value, and feel seamless to the user.
 </p>
+
+<br/>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-gomes-b067a3266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:victorcrepaldigomes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1e1e1e?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-1e1e1e?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/VictorCrepaldiGomes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -30,16 +30,17 @@
 
 <br/>
 
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=graywhite&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=graywhite&background=1e1e1e&currStreakLabel=ffffff&currStreakNum=ffffff&ring=cccccc&fire=ffffff&sideNums=cccccc&sideLabels=cccccc" />
-</div>
+<p align="left">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=graywhite&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=graywhite&background=1e1e1e&currStreakLabel=ffffff&currStreakNum=ffffff&ring=cccccc&fire=ffffff&sideNums=cccccc&sideLabels=cccccc" />
+</p>
 
 <br/>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile_Views-🔎_Tracking_Enabled-1e1e1e?style=flat-square&logo=github&logoColor=white&labelColor=1e1e1e&color=cccccc" />
-  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat-square&color=cccccc&label=👁 Views" />
+  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat-square&color=cccccc&label=Profile+Views" />
 </p>
 
-<p align="left" style="text-align: justify;"><i>Simplicity is the ultimate sophistication.</i></p>
+<p align="left" style="text-align: justify;">
+<i>Code with intention. Design with clarity. Ship with confidence.</i>
+</p>
