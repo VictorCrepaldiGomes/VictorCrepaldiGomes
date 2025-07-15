@@ -1,4 +1,10 @@
-<h1 align="left">Victor Crepaldi Gomes</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Victor+Crepaldi+Gomes;Front-end+Developer;UI-Centric+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=25&animation=fadeIn&fontAlign=40" />
+</p>
 
 <p align="left" style="text-align: justify;">
 Front-end developer focused on clean code, high-performance interfaces, and design systems that scale. I build digital products with an emphasis on modern technologies like React, Next.js, Tailwind CSS and TypeScript — always aiming for usability, elegance, and clarity.
