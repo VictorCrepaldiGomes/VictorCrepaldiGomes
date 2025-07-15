@@ -30,18 +30,16 @@
 
 <br/>
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=graywhite&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
-</p>
-
-<p align="left">
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=graywhite&background=1e1e1e&currStreakLabel=ffffff&currStreakNum=ffffff&ring=cccccc&fire=ffffff&sideNums=cccccc&sideLabels=cccccc" />
-</p>
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=graywhite&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=graywhite&background=1e1e1e&currStreakLabel=ffffff&currStreakNum=ffffff&ring=cccccc&fire=ffffff&sideNums=cccccc&sideLabels=cccccc" />
+</div>
 
 <br/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&color=cccccc&style=flat&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-🔎_Tracking_Enabled-1e1e1e?style=flat-square&logo=github&logoColor=white&labelColor=1e1e1e&color=cccccc" />
+  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat-square&color=cccccc&label=👁 Views" />
 </p>
 
 <p align="left" style="text-align: justify;"><i>Simplicity is the ultimate sophistication.</i></p>
