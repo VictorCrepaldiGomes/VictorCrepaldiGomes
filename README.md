@@ -1,17 +1,17 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=header&animation=fadeIn&fontAlign=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Victor+Crepaldi+Gomes;Front-end+Developer" alt="Typing SVG" />
-</p>
-<p align="left" style="text-align: justify;">
-Front-end developer focused on clean code, high-performance interfaces, and design systems that scale. I build digital products with an emphasis on modern technologies like React, Next.js, Tailwind CSS and TypeScript — always aiming for usability, elegance, and clarity.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Victor+Crepaldi+Gomes;Software+Developer" alt="Typing SVG" />
 </p>
 
 <p align="left" style="text-align: justify;">
-Currently exploring the intersection between Front-end development and AI, working on tools and interfaces that save time, deliver value, and feel seamless to the user.
+Software developer focused on clean code, high-performance interfaces, and scalable systems. I build digital products using modern technologies like React, Next.js, Tailwind CSS, TypeScript, and Python — always aiming for usability, elegance, and clarity.
+</p>
+
+<p align="left" style="text-align: justify;">
+Currently exploring the intersection between software development and AI, working on tools and interfaces that save time, deliver value, and feel seamless to the user.
 </p>
 
 <br/>
@@ -31,7 +31,7 @@ Currently exploring the intersection between Front-end development and AI, worki
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,python,figma,git,github&theme=dark" />
 </p>
 
 <br/>
