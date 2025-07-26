@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Victor+Crepaldi+Gomes;Software+Developer" alt="Typing SVG" />
+</p>
 
 <p align="left" style="text-align: justify;">
 Software developer focused on clean code, high-performance interfaces, and scalable systems. I build digital products using modern technologies like React, Next.js, Tailwind CSS, TypeScript, and Python — always aiming for usability, elegance, and clarity.
