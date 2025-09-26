@@ -1,48 +1,47 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Victor+Crepaldi+Gomes;Software+Developer" alt="Typing SVG" />
-</p>
+# Victor Crepaldi Gomes
 
-<p align="left" style="text-align: justify;">
-Software developer focused on clean code, high-performance interfaces, and scalable systems. I build digital products using modern technologies like React, Next.js, Tailwind CSS, TypeScript, and Python — always aiming for usability, elegance, and clarity.
-</p>
+**Software Developer** focused on clean code, high-performance interfaces, and scalable systems.
 
-<p align="left" style="text-align: justify;">
-Currently exploring the intersection between software development and AI, working on tools and interfaces that save time, deliver value, and feel seamless to the user.
-</p>
+I build digital products that prioritize usability, elegance, and clarity — currently exploring the intersection between software development and AI to create tools that save time, deliver real value, and feel seamless to users.
 
-<br/>
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/victor-gomes-b067a3266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:victorcrepaldigomes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1e1e1e?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VictorCrepaldiGomes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+### Connect with me
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gomes-b067a3266/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcrepaldigomes@gmail.com)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,python,figma,git,github&theme=dark" />
-</p>
+---
 
-<br/>
+### GitHub Stats
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&hide=issues&theme=graywhite&count_private=true&bg_color=1e1e1e&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCrepaldiGomes&theme=graywhite&background=1e1e1e&currStreakLabel=ffffff&currStreakNum=ffffff&ring=cccccc&fire=ffffff&sideNums=cccccc&sideLabels=cccccc" />
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorCrepaldiGomes&custom_title=Contribution%20Graph&bg_color=0d1117&color=00b4d8&line=00f5ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
 
-<br/>
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat-square&color=cccccc&label=Profile+Views" />
-</p>
+### Technologies & Tools
 
-<p align="left" style="text-align: justify;">
-<i>Code with intention. Design with clarity. Ship with confidence.</i>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat&color=00b4d8&label=Profile+Views)
+
+*"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
+
+**⚡ Available for exciting projects and collaborations**
+
+</div>
