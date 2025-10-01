@@ -40,8 +40,4 @@ I build digital products that prioritize usability, elegance, and clarity — cu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat&color=00b4d8&label=Profile+Views)
 
-*"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
-
-**⚡ Available for exciting projects and collaborations**
-
 </div>
