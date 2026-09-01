@@ -1,43 +1,82 @@
 # Victor Crepaldi Gomes
 
-**Software Developer** focused on clean code, high-performance interfaces, and scalable systems.
+### Software Developer · Full Stack · SaaS
 
-I build digital products that prioritize usability, elegance, and clarity — currently exploring the intersection between software development and AI to create tools that save time, deliver real value, and feel seamless to users.
+I build scalable web applications, SaaS products and automation tools focused on **performance, usability and clean architecture**.
 
----
-
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gomes-b067a3266/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcrepaldigomes@gmail.com)
+Currently working mainly with the **TypeScript ecosystem**, building full-stack applications with **Next.js, React, Node.js and PostgreSQL**, while exploring how **AI and automation** can improve real-world products.
 
 ---
 
-### GitHub Stats
+## About me
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCrepaldiGomes&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorCrepaldiGomes&custom_title=Contribution%20Graph&bg_color=0d1117&color=00b4d8&line=00f5ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
----
-
-### Technologies & Tools
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* 💻 Software Developer focused on modern web applications
+* 🚀 Building and evolving SaaS products
+* 🤖 Exploring AI, automation and intelligent workflows
+* ⚡ Interested in performance, developer experience and clean code
+* 🎨 I care about interfaces that are simple, fast and intuitive
+* 📚 Always learning and experimenting with new technologies
 
 ---
 
-<div align="center">
+## Tech Stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat&color=00b4d8&label=Profile+Views)
+## GitHub Activity
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VictorCrepaldiGomes&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="Victor's contribution graph"
+  />
+</p>
+
+---
+
+## What I'm interested in
+
+```text
+SaaS Development
+Full Stack Applications
+Artificial Intelligence
+Automation
+APIs & Integrations
+Software Architecture
+Developer Experience
+UI / UX
+```
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-gomes-b067a3266/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:victorcrepaldigomes@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorCrepaldiGomes&style=flat-square&color=58a6ff&label=Profile+Views" />
+</p>
